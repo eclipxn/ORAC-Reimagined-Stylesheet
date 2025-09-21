@@ -1,4 +1,4 @@
-# ORAC - Re-imagined
+# ORAC - Reimagined
 This is a stylesheet for [ORAC](https://orac2.info), Australia's official informatics training site.
 ## How to use
 1. Install the "Stylus" browser extension ([here](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) for Firefox, [here](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en&pli=1) for Chrome).
