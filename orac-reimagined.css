@@ -1,24 +1,15 @@
-/* ==UserStyle==
-@name           ORAC - Reimagined
-@namespace      github.com/openstyles/stylus
-@version        1.2.1
-@description    ORAC but with more flavour 
-@author         finehaveanormalusername
-==/UserStyle== */
-@-moz-document url-prefix("https://orac2.info/"), url-prefix("https://orac.amt.edu.au/") {
-	
-	:root {
-		--font: "hermit", monospace; 
-		/* must be a font that is already installed on your computer */
-		/* otherwise, you may have to import it like i have done above */
+:root {
+		--font: monospace; /* you can set this to a font name, e.g. --font: "jetbrains mono"; */
+	    /* any font which is installed on your computer should work, you can also import a font eg from google fonts*/
+	    /* if you can be bothered */
 		
-		--bg: #161627;
-		--base: #1c1c31;
-		--surface-0: #2d2f48;
-		--surface-1: #3f425f;
+		--bg: #15151f;
+		--base: #1a1a26;
+		--surface-0: #2d2e3d;
+		--surface-1: #404252;
 		
-		--text: #cbd5f6;
-		--text-muted: #a1aace;
+		--text: #c9d2ed;
+		--text-muted: #a0a7bf;
 		
 		--small-round: 6px; /* roundness of corners of small stuff like buttons */
 		--big-round: 6px; /* roundness of corners of big stuff like problem sets */
@@ -811,7 +802,7 @@
 	}
 	.landing-subtitle {
 		color: var(--text-muted) !important;
-		font-family: "hermit" !important;
+		font-family: monospace !important;
 		visibility: hidden;
 		overflow: hidden;
 		white-space: nowrap;
@@ -1035,4 +1026,3 @@
 		border: 2px solid var(--surface-1) !important; 
 		color: var(--text) !important;
 	}
-}
