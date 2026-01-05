@@ -16,7 +16,7 @@
             margin: auto !important;
             #viewer {
                --scale-factor: 1.5 !important;
-               filter: invert(88%) sepia(100%) hue-rotate(203deg) contrast(108%) saturate(170%);
+               filter: invert(88%) sepia(100%) hue-rotate(203deg) contrast(108%) saturate(90%);
                .page {
                   margin: 0 !important;
                   border: 0 !important;
