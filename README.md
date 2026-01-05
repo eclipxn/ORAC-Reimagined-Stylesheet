@@ -11,9 +11,9 @@ This is a stylesheet for [ORAC](https://orac2.info), Australia's official inform
 3. Go to (or create if you don't have it) the folder named `chrome`.
 4. Import the `userContent.css` attached.
 ## Preview
-<img src="assets/orac1.png" width="100%" height="100%" alt="orac-reimagined">
-<img src="assets/orac2.png" width="100%" height="100%" alt="orac-reimagined">
-<img src="assets/orac3.png" width="100%" height="100%" alt="orac-reimagined">
-<img src="assets/orac4.png" width="100%" height="100%" alt="orac-reimagined">
-<img src="assets/orac5.png" width="100%" height="100%" alt="orac-reimagined">
-<img src="assets/orac6.png" width="100%" height="100%" alt="orac-reimagined">
+<img src="assets/problems.png" width="100%" height="100%" alt="orac-reimagined">
+<img src="assets/homepage.png" width="100%" height="100%" alt="orac-reimagined">
+<img src="assets/statement.png" width="100%" height="100%" alt="orac-reimagined">
+<img src="assets/code.png" width="100%" height="100%" alt="orac-reimagined">
+<img src="assets/verdicts.png" width="100%" height="100%" alt="orac-reimagined">
+<img src="assets/leaderboards.png" width="100%" height="100%" alt="orac-reimagined">
